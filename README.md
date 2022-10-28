@@ -11,6 +11,13 @@ My tech stack 📚
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-404040?style=for-the-badge&logo=Codeigniter)
 ![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
+contributors ✨
+---
+<a href="https://github.com/rosie-bb/rosie-bb/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rosie-bb/rosie-bb" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 <!--
 **Rosie-bb/rosie-bb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
