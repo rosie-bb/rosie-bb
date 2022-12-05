@@ -2,6 +2,7 @@
 
 My tech stack 📚
 ---
+Development </br></br>
 ![HTML5](https://img.shields.io/badge/HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -10,6 +11,12 @@ My tech stack 📚
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php)
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-404040?style=for-the-badge&logo=Codeigniter)
 ![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+</br></br>
+Design </br></br>
+![Photoshop](https://img.shields.io/badge/photoshop-071E34?style=for-the-badge&logo=adobePhotoshop&logoColor=071E34&labelColor=53A5F4)
+![Illustrator](https://img.shields.io/badge/Illustrator-2E0322?style=for-the-badge&logo=adobeIllustrator&logoColor=2E0322&labelColor=FE9239)
+![Figma](https://img.shields.io/badge/figma-5647B3?style=for-the-badge&logo=figma&logoColor=ffffff&labelColor=7C6EF6)
+![Sketch](https://img.shields.io/badge/sketch-FF9530?style=for-the-badge&logo=sketch&logoColor=ffffff&labelColor=ED732D)
 
 contributors ✨
 ---
