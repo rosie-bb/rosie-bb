@@ -15,6 +15,7 @@ Development </br></br>
 Design </br></br>
 ![Photoshop](https://img.shields.io/badge/photoshop-071E34?style=for-the-badge&logo=adobePhotoshop&logoColor=071E34&labelColor=53A5F4)
 ![Illustrator](https://img.shields.io/badge/Illustrator-2E0322?style=for-the-badge&logo=adobeIllustrator&logoColor=2E0322&labelColor=FE9239)
+![Indesign](https://img.shields.io/badge/Indesign-42091F?style=for-the-badge&logo=adobeIndesign&logoColor=42091F&labelColor=EB4869)
 ![Figma](https://img.shields.io/badge/figma-5647B3?style=for-the-badge&logo=figma&logoColor=ffffff&labelColor=7C6EF6)
 ![Sketch](https://img.shields.io/badge/sketch-FF9530?style=for-the-badge&logo=sketch&logoColor=ffffff&labelColor=ED732D)
 
